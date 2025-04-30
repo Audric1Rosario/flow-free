@@ -1,15 +1,15 @@
-# Flow Free - Tarea de Programación Aplicada - Febrero de 2020
+# Flow Free - Practical Programming Aplicada - February 2020
 
-## Elaborado por
+## Made by
 
 - Audric Rosario
 - Zheng Peng Li
 
-### Presentación
+### Presentation
 
-[![Flow Free](http://img.youtube.com/vi/V9N8SpRGCfI/0.jpg)](https://www.youtube.com/watch?v=V9N8SpRGCfI&ab_channel=AudricRosario "Flow Free - Proyecto de Programación Aplicada")
+[![Flow Free](http://img.youtube.com/vi/V9N8SpRGCfI/0.jpg)](https://www.youtube.com/watch?v=V9N8SpRGCfI&ab_channel=AudricRosario "Flow Free - Practical Programming Project")
 
-### Utiliza
+### Features
 
 - Sprites
 - Prefabs
@@ -17,14 +17,14 @@
 - Plugins
 - Scripts
 
-### Menú
+### Menu
 
-![Menú](readme/menu.png)
+![Menu](readme/menu.png)
 
-### Niveles
+### Levels
 
-![Juego](readme/levels.png)
+![Levels](readme/levels.png)
 
-### Juego
+### Game
 
-![Juego](readme/game.png)
+![Game](readme/game.png)
